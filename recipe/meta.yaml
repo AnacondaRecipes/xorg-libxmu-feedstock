@@ -50,7 +50,7 @@ about:
   license_family: MIT
   license_file: COPYING
   summary: The X.org X11 miscellaneous utility library.
-  description: The X.org X11 miscellaneous utility library.
+  description: The X.org X11 miscellaneous utility library
 
 extra:
   recipe-maintainers:
